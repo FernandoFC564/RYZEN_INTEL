@@ -180,7 +180,7 @@ Para juegos y tareas ligeras: Intel ofrece ventajas en rendimiento de un solo n�
 Para tareas intensivas y multitarea: AMD Ryzen es preferible por su mejor rendimiento multinúcleo y valor general.<br>
 <p align=right><a href=#menu>Regresar al menu</a></p>
 
-<center><embed src="C:\Users\Imjus\OneDrive\Imágenes\Pagina HTML\RYZEN VS INTEL_ Que PROCESADOR es MEJOR para GAMING en 2023.mp4" autostart="false" width=50% height=50%></center>
+<center><embed src="Vid.2.mp4" autostart="false" width=50% height=50%></center>
 
 
 
